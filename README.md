@@ -1,3 +1,4 @@
+
 ONLINE STORE
 Cel warsztatów
 - Celem warsztatów jest napisanie prostego sklepu internetowego.
@@ -14,5 +15,7 @@ Zadanie 2.  Połączenie do bazy danych
 
  Na jednym z komputerów wspólnie stwórzcie plik z połączeniem do bazy danych.
  Dane do połączenia każdy powinien trzymać w osobnym pliku (np. config.php), który nie może się znajdować w repozytorium (użyjcie do tego .gitignore). 
+
+
 
 
